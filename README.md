@@ -37,9 +37,8 @@ Classification & Figures
 5-5. Figure_3_Correlation.ipynb	
 5-6. Figure_4_OncoPrinter.ipynb
 
+```
 
 ## Outputs
-------------------------------------
-[eposter_final.pdf](https://github.com/hyz218/ML_based_Analysis_of_SLC/files/7264266/eposter_final.pdf)
 
-```
+[eposter_final.pdf](https://github.com/hyz218/ML_based_Analysis_of_SLC/files/7264266/eposter_final.pdf)
